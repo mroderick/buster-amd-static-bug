@@ -1,6 +1,6 @@
 # buster-amd-static-bug
 
-This repository is a reduced test case for a bug in [Buster.JS](http://busterjs.org/)
+This repository is a reduced test case for [a bug in Buster.JS](https://github.com/busterjs/buster/issues/455)
 
 ## To reproduce
 
