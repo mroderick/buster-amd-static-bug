@@ -17,6 +17,8 @@ buster-server
 
 # run tests
 buster-test
+
+# 1 test, 1 assertion, 1 runtime ... OK
 ```
 
 Show the bug with buster-static
