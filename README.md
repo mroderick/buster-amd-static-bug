@@ -29,5 +29,8 @@ buster-static
 
 Point a browser to [http://localhost:8282](http://localhost:8282)
 
-* Observe that all the files are loaded
-* Observe that no tests are reported as being run
+Observe that all the necessary files are loaded:
+![2015-07-16 at 09 30](https://cloud.githubusercontent.com/assets/20321/8717613/5ea39e0a-2b9d-11e5-953e-63b447257bc9.png)
+
+Observe no test results are recorded in the browser
+![2015-07-16 at 09 30](https://cloud.githubusercontent.com/assets/20321/8717603/4d610d94-2b9d-11e5-8889-7eb0107ca34d.png)
